@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ServerPlugin">
+    <output-path>$USER_HOME$/Desktop/ServerChecker/plugins</output-path>
+    <root id="archive" name="ServerPlugin.jar">
+      <element id="module-output" name="ServerPlugin" />
+    </root>
+  </artifact>
+</component>

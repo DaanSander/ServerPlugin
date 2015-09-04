@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ServerChecker">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/ServerChecker/ServerChecker.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
